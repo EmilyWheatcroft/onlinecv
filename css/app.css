@@ -1,0 +1,67 @@
+.main {
+	background-color: #F3F7F0 !important;
+	height:1200px;
+	border: #373A49 0.2em solid;;
+}
+
+
+body {
+	margin: 2em;
+	background-image: url("../bg.jpg");
+}
+
+h1 {
+	text-transform: uppercase;
+	font-family: 'Anton', sans-serif;
+	font-size: 5em;
+	color: #373A49;
+}
+
+h2 {
+	text-transform: uppercase;
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: #373A49;
+}
+
+h3 {
+	font-family: 'Source Sans Pro', sans-serif;
+	color: #373A49;
+	font-size: 1.6em;
+}
+
+p {
+	font-family: 'Source Sans Pro', sans-serif;
+	color: #696969;
+	font-size: 1.2em;
+}
+
+label {
+	font-family: 'Source Sans Pro', sans-serif;
+	color: #373A49;
+	font-size: 1.2em;
+}
+
+.name {
+	padding-bottom: 20px;
+	}
+
+.sub {
+	padding-bottom: 20px;
+}
+
+.left-side {
+	padding: 2em;
+}
+
+.right-side {
+	padding: 2em;
+}
+
+.fa {
+	padding-bottom: 15px;
+	color: #373A49;
+}
+
+.icons {
+	text-align: left;
+}
